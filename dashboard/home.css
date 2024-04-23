@@ -1,0 +1,55 @@
+.container-fluid{
+background-color: wheat;
+
+}
+.side{
+    /* border: 1px solid black; */
+    background-color:#f9fdff;
+}
+.side ul li a{
+    text-decoration: none;
+    list-style: none;
+    
+}
+.side ul{
+    text-align: left;
+    padding-left: 0%;
+    list-style: none;
+    padding-top: 1%;
+}
+.side ul li{
+    padding-top: 7%;
+    /* border-bottom: 1px solid black; */
+}
+
+.topbar ul li a{
+    text-decoration: none;
+    float: right;
+    color: white;
+    padding: 1%;
+}
+.topbar ul li{
+    /* text-decoration: none; */
+    list-style: none;
+    
+}
+.first{
+    background-color: #ff7675;
+}
+.top2{
+    padding: 1%;
+    color: white;
+}
+.top2 a{
+ text-decoration: none;
+ color: white;
+}
+#tec li a{
+    /* border: 1px solid black; */
+    padding-left: 15%;
+}
+body{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+} 
+
